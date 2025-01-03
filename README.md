@@ -15,7 +15,7 @@ A lightweight, easy-to-use todo list application built with HTML, CSS, and JavaS
 
 ## Live Demo
 
-Check out the live demo: [Simple Todo List](https://yourusername.github.io/simple-todo-list)
+Check out the live demo: [Simple Todo List](https://8harath.github.io/to-do-application)
 
 ## Getting Started
 
@@ -88,6 +88,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername)
+Your Name - [@8harath](https://x.com/8harath_k)
 
-Project Link: [https://github.com/yourusername/simple-todo-list](https://github.com/yourusername/simple-todo-list)
+Project Link: [https://github.com/8harath/to-do-application](https://github.com/8harath/to-do-application)
